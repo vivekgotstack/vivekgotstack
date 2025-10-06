@@ -13,7 +13,7 @@
 🎓 Final‑Year Computer Science Student <br>
 🧪 Specializing in Java Full‑Stack Development <br>
 ♟️ Chess Enthusiast — strategic moves (and blunders) keep it fun <br>
-💬 Open to discussions on Java, Spring, Web Development & beyond <br>
+💬 Open to discussions on Java, SpringBoot, Web Development & beyond <br>
 📫 Let’s connect using the links below:
 </p>
 
