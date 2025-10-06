@@ -18,10 +18,10 @@
 </p>
 
 
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/randomvivek)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekni1224@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randomvivek)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vivekgotstack)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/randomvivek)
 
 
 ##### Languages I use:
@@ -54,7 +54,7 @@
 <!-- 🎖️ Curated GitHub Trophies -->
 <!-- ========================= -->
 
-<h2 align="center">🏆 My GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekgotstack&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
