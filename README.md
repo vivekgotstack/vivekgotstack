@@ -50,6 +50,15 @@
   <img src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL">
 </span>
 
+<!-- ========================= -->
+<!-- 🎖️ Curated GitHub Trophies -->
+<!-- ========================= -->
+
+<h2 align="center">🏆 My GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekgotstack&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
+</p>
 
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
