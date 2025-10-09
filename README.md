@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Vivek;Full+Stack+Developer;Microservices+Enthusiast+Enthusiast;Code+Optimizer;Java Aficionado;Open+Source+Contributor" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0100&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I%27m+Vivek;Full+Stack+Developer;Microservices+Enthusiast;Code+Optimizer;Spring+Boot+Enthusiast;AI+%26+ML+Explorer;DevOps+Practitioner;CI%2FCD+Evangelist;Java+Aficionado;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-weight:700; color:#e63946;">
   About me
