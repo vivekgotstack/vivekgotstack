@@ -12,13 +12,26 @@
 <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-weight:700; color:#e63946;">
   About me
 </h1>
-<p>
-🎓 <b>Final-Year Computer Science Student</b> 🎓 <br>
-🧪 <b>Specializing in Java Full-Stack Development</b>🧪 <br>
-♟️ <b>Chess Enthusiast — strategic moves (and blunders) keep it fun </b>♟️<br>
-💬 <b>Open to discussions on:</b> Java, Spring Boot, Web Development & beyond 💬 <br>
-📫 <b>Connect with me:</b> see links below 📫
-</p>
+<hr/>
+
+🔭 I’m currently working on [WanderWise](https://wanderwise-lime.vercel.app)
+
+🌱 I’m currently learning **SpringBoot**
+
+👯 I’m looking to collaborate on [WanderWise](https://wanderwise-lime.vercel.app)
+
+👨‍💻 All of my projects are available at [Github](https://github.com/vivekgotstack)
+
+📝 I post content on [Twitter](https://twitter.com/vivekgotstack)
+
+💬 Ask me about **Scaling Backends, Building Architectures**
+
+📫 How to reach me **vivekni1224@gmail.com**
+
+📄 Know about my experiences [here](https://twitter.com/vivekgotstack)
+
+⚡ Fun fact: **I enjoy writing code so clean even my future self can understand it.**
+<hr/>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekni1224@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randomvivek)
