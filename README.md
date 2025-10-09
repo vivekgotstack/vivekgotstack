@@ -33,6 +33,7 @@
 ⚡ Fun fact: **I enjoy writing code so clean even my future self can understand it.**
 <hr/>
 
+##### Socials:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekni1224@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randomvivek)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vivekgotstack)
@@ -66,7 +67,7 @@
 </span>
 <br/>
 
-##### ⚒️ Often Used Tech Tools ⚒️
+##### ⚒️ Often Used Tech Tools & Languages ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
 <img src="https://skillicons.dev/icons?i=next,tailwind,redux,prisma,postman,jest,figma" />
@@ -75,16 +76,19 @@
   </a>
 </p>
 
-<!-- ========================= -->
-<!-- 🎖️ Curated GitHub Trophies -->
-<!-- ========================= -->
-
-<h2 align="center">GitHub Trophies</h2>
+<div align="center">
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekgotstack&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
 </p>
+<br/>
+<br/>
 
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=donut&theme=tokyonight)
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight)
+</div>
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
