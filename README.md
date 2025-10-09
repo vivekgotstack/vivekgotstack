@@ -82,8 +82,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekgotstack&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
 </p>
-<br/>
-<br/>
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=donut&theme=tokyonight)
 
