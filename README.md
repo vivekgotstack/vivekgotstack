@@ -6,6 +6,9 @@
 </p>
 
 <div align="center">
+  <h1>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Vivek;Full+Stack+Developer;Microservices+Enthusiast+Enthusiast;Code+Optimizer;Java Aficionado;Open+Source+Contributor" alt="Typing SVG" /></a>
+</h1>
 <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-weight:700; color:#e63946;">
   About me
 </h1>
@@ -49,6 +52,16 @@
   <img src="https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL">
 </span>
+<br/>
+
+##### ⚒️ Often Used Tech Tools ⚒️
+<p align="center">
+  <a href="https://github.com/vivekgotstack" >
+<img src="https://skillicons.dev/icons?i=next,tailwind,redux,prisma,postman,jest,figma" />
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,ts,c,cpp,py" />
+  </a>
+</p>
 
 <!-- ========================= -->
 <!-- 🎖️ Curated GitHub Trophies -->
