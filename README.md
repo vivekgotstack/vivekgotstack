@@ -13,13 +13,12 @@
   About me
 </h1>
 <p>
-🎓 Final‑Year Computer Science Student <br>
-🧪 Specializing in Java Full‑Stack Development <br>
-♟️ Chess Enthusiast — strategic moves (and blunders) keep it fun <br>
-💬 Open to discussions on Java, SpringBoot, Web Development & beyond <br>
-📫 Let’s connect using the links below:
+🎓 <b>Final-Year Computer Science Student</b> 🎓 <br>
+🧪 <b>Specializing in Java Full-Stack Development</b>🧪 <br>
+♟️ <b>Chess Enthusiast — strategic moves (and blunders) keep it fun </b>♟️<br>
+💬 <b>Open to discussions on:</b> Java, Spring Boot, Web Development & beyond 💬 <br>
+📫 <b>Connect with me:</b> see links below 📫
 </p>
-
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekni1224@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randomvivek)
