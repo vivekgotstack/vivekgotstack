@@ -73,7 +73,7 @@
 ##### ⚒️ Often Used Tech Tools & Languages ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
-<img src="https://skillicons.dev/icons?i=next,tailwind,redux,prisma,postman,jest,figma" />
+<img src="https://skills.syvixor.com/api/icons?i=nextjs,tailwind,prisma,redux,zustand,tanstack,git,postman,jest,materialui,shadcnui,figma,canva,gsap,framer" />
 <br/>
 <img src="https://skillicons.dev/icons?i=js,java,ts,c,cpp,py" />
   </a>
