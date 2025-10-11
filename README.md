@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00b4d8,100:ff69b4&section=header" width="100%"/>
+</div>
 
 ### Hey there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
@@ -102,3 +105,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <p align="center">
   <img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-2c3e50?style=for-the-badge">
 </p>
+
+<div  align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:ff69b4&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
