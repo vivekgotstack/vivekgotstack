@@ -95,6 +95,8 @@
 <hr/>
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<div align="center">
+
 <!-- wi*quL3fcV -->
 ```javascript
 // Which came first: the chicken or the egg?
@@ -103,6 +105,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+</div>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-4fa3f7?style=for-the-badge">
