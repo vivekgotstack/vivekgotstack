@@ -85,12 +85,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekgotstack&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="github trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekgotstack&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&v=2" alt="github trophies"/>
 </p>
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=donut&theme=tokyonight)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=donut&theme=tokyonight&v=2)
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight&v=2)
 </div>
 <hr/>
 
