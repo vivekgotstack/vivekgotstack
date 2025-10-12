@@ -1,0 +1,26 @@
+name: Auto Cache Bust
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Increment cache version in README
+        run: |
+          readme="README.md"
+          current=$(grep -oE 'v=[0-9]+' "$readme" | head -1 | cut -d= -f2)
+          next=$((current + 1))
+          sed -i "s/v=$current/v=$next/g" "$readme"
+          echo "Updated cache version: v$current → v$next"
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto cache bust v$next" || echo "No changes"
+          git push
