@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00b4d8,100:ff69b4&section=header" width="100%"/>
 </div>
 
+<img align="right" height="150" width = "150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+
 ### Hey there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
@@ -12,6 +14,7 @@
   <h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&weight=500&size=35&duration=4000&pause=0100&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!!;I%27m+Vivek;Full+Stack+Developer;Microservices+Enthusiast;AI+%26+ML+Explorer;DevOps+Practitioner;CI%2FCD+Evangelist;Java+Aficionado;Spring+Boot+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
+  
 <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-weight:700; color:#e63946;">
   About me
 </h1>
@@ -97,7 +100,6 @@
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <div align="center">
 
-<!-- wi*quL3fcV -->
 ```javascript
 // Which came first: the chicken or the egg?
 
