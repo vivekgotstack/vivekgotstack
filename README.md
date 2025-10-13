@@ -2,19 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00b4d8,100:ff69b4&section=header" width="100%"/>
 </div>
 
-<img align="right" height="150" width = "150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+<img align="right" height="150" width="150" 
+     src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"
+     alt="© vivekgotstack | https://github.com/vivekgotstack" />
 
 ### Hey there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p align="left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="© vivekgotstack | https://github.com/vivekgotstack" /></p>
 
 <p align="center">
-  <img src="https://github.com/vivekgotstack/vivekgotstack/blob/main/transition.gif" width="100%" />
+  <img src="https://github.com/vivekgotstack/vivekgotstack/blob/main/transition.gif" width="100%" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
 </p>
 
 <div align="center">
   <h1>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&weight=500&size=35&duration=4000&pause=0100&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!!;I%27m+Vivek;Full+Stack+Developer;Microservices+Enthusiast;AI+%26+ML+Explorer;DevOps+Practitioner;CI%2FCD+Evangelist;Java+Aficionado;Spring+Boot+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&weight=500&size=35&duration=4000&pause=0100&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!!;I%27m+Vivek;Full+Stack+Developer;Microservices+Enthusiast;AI+%26+ML+Explorer;DevOps+Practitioner;CI%2FCD+Evangelist;Java+Aficionado;Spring+Boot+Enthusiast;Open+Source+Contributor" alt="© vivekgotstack | https://github.com/vivekgotstack" />
 </h1>
   
 <h1 style="font-family:Georgia, 'Times New Roman', Times, serif; font-weight:700; color:#e63946;">
@@ -51,28 +53,28 @@
 ##### Programming Languages:
 <span>
   <a href="https://github.com/vivekgotstack" >
-<img src="https://skillicons.dev/icons?i=java,c,cpp,py" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
 ##### Web Languages:
 <span>
   <a href="https://github.com/vivekgotstack" >
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
 ##### Frameworks & Libraries:
 <span>
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=reactjs,spring,springboot,nextjs" />
+    <img src="https://skills.syvixor.com/api/icons?i=reactjs,spring,springboot,nextjs" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
 ##### Databases & Platforms:
 <span>
   <a href="https://github.com/vivekgotstack">
-    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,github,maven,docker,firebase,appwrite" />
+    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,github,maven,docker,firebase,appwrite" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </span>
 <br/>
@@ -80,9 +82,9 @@
 ##### ⚒️ Often Used Tech Tools ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=nextjs,tailwind,redux,zustand,tanstack,git,postman,vitest" />
+    <img src="https://skills.syvixor.com/api/icons?i=nextjs,tailwind,redux,zustand,tanstack,git,postman,vitest" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
     <br/>
-    <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,figma,canva,gsap,framer,reacthookform" />
+    <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,figma,canva,gsap,framer,reacthookform" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </p>
 <br/>
