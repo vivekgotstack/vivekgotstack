@@ -6,6 +6,8 @@
 
 ### Hey there <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<p align="left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 <p align="center">
   <img src="https://github.com/vivekgotstack/vivekgotstack/blob/main/transition.gif" width="100%" />
 </p>
