@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00b4d8,100:ff69b4&section=header" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=0:00b4d8,100:ff69b4&fontColor=ffffff&font=Lobster" width="100%"/>
 </div>
 
 <img align="right" height="150" width="150" 
@@ -87,8 +87,38 @@
     <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,figma,canva,gsap,framer,reacthookform" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </p>
-<br/>
 <div align="center">
+
+##### Current Focus ️
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React Apps
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest Api" width="65" height="65" />
+        <br>Rest Api
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java and Springboot" width="65" height="65" />
+        <br>Java and Springboot
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>Open Source
+      </td>
+    </tr>
+  </table>
+</div>
+<hr />
+  <br />
+  
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
@@ -99,7 +129,7 @@
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight&v=2)
 </div>
-<hr/>
+<hr />
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <div align="center">
