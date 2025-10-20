@@ -26,7 +26,7 @@
 
 🔭 I’m currently working on [WanderWise](https://wanderwise-lime.vercel.app)
 
-🌱 I’m currently learning **SpringBoot**
+🌱 I’m currently learning **Spring Boot**
 
 👯 I’m looking to collaborate on [WanderWise](https://wanderwise-lime.vercel.app)
 
