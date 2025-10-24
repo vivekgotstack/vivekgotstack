@@ -24,7 +24,7 @@
 </h1>
 <hr/>
 
-🔭 I’m currently working on [WanderWise](https://wanderwise-lime.vercel.app)
+🔭 I’m currently working on [AnimePhillic](https://anime-phillic.vercel.app)
 
 🌱 I’m currently learning **Spring Boot**
 
