@@ -82,7 +82,7 @@
 ##### ⚒️ Often Used Tech Tools ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=nextjs,tailwind,redux,zustand,tanstack,git,postman,vitest" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=nextjs,tailwind,redux,zustand,reactquery,git,postman,vitest" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
     <br/>
     <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,figma,canva,gsap,framer,reacthookform" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
