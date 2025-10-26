@@ -140,7 +140,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 </div>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-4fa3f7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-2e8aef?style=for-the-badge">
 </p>
 
 <div  align="center">
