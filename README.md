@@ -126,7 +126,23 @@
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight&v=2)
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/vivekgotstack/vivekgotstack/output/github-contribution-grid-snake.svg)
+<!-- Paste this into your README.md -->
+<div align="center">
+  <picture>
+    <!-- Dark mode SVG (will be used when viewer prefers dark) -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/vivekgotstack/vivekgotstack/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light mode SVG (default) -->
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/vivekgotstack/vivekgotstack/output/github-contribution-grid-snake.svg">
+    <!-- Fallback img: keeps it responsive and centered -->
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/vivekgotstack/vivekgotstack/output/github-contribution-grid-snake.svg"
+      style="max-width:100%; height:auto; display:block; margin: 0 auto;"
+      >
+  </picture>
+</div>
 
 <hr />
 
