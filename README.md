@@ -143,8 +143,9 @@
 
 </div>
 <br>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000&logoColor=000000">
+  <img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=ffffff">
 </p>
 
 <div  align="center">
