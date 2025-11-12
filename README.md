@@ -55,7 +55,7 @@
 ##### Programming Languages:
 <span>
   <a href="https://github.com/vivekgotstack" >
-<img src="https://skillicons.dev/icons?i=java,c,cpp,py" alt="© vivekgotstack | https://github.com/vivekgotstack" />
+<img src="https://skillicons.dev/icons?i=java,c,py" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
@@ -76,7 +76,7 @@
 ##### Databases & Platforms:
 <span>
   <a href="https://github.com/vivekgotstack">
-    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,github,maven,docker,firebase,appwrite" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,github,maven,docker,firebase" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </span>
 <br/>
@@ -84,9 +84,9 @@
 ##### ⚒️ Often Used Tech Tools ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=nextjs,tailwind,redux,zustand,reactquery,git,postman,vitest" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=tailwind,redux,zustand,reactquery,tanstack,git,jest,postman" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
     <br/>
-    <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,figma,canva,gsap,framer,reacthookform" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,prisma,magicui,figma,canva,gsap,framer,reacthookform" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </p>
 <div align="center">
