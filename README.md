@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=0:00b4d8,100:ff69b4&fontColor=ffffff&font=Lobster" width="100%"/>
 </div>
 
@@ -116,6 +116,11 @@
     </tr>
   </table>
 </div>
+
+#### Will learn as much as I can, Still have a long way to go.
+
+<img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
+
 <hr />
   
 <h2 align="center">⚡ Stats ⚡</h2>
