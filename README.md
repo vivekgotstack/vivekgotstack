@@ -1,5 +1,7 @@
-div align="center">
+<div align="center">
+
  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=ff0000&fontColor=ffffff&font=Lobster" width="100%"/>
+ 
 </div>
 
 <img align="right" height="150" width="150" 
