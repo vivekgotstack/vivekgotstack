@@ -116,11 +116,6 @@ div align="center">
     </tr>
   </table>
 </div>
-
-#### Will learn as much as I can, Still have a long way to go.
-
-<img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
-
 <hr />
   
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -140,16 +135,10 @@ div align="center">
 
 <hr />
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<div align="center">
+#### Will learn as much as I can, Still have a long way to go.
 
-```javascript
-// Which came first: the chicken or the egg?
+<img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
 
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
 </div>
 <br>
 <p align="center">
