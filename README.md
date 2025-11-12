@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=ff0000&fontColor=ffffff&font=Lobster" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=0:ff0000,50:ff4d6d,100:00b4d8&fontColor=ffffff&font=Lobster" width="100%"/>
  
 </div>
 
@@ -59,10 +59,10 @@
   </a>
 </span>
 
-##### Web Languages:
+##### Web Technologies:
 <span>
   <a href="https://github.com/vivekgotstack" >
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="© vivekgotstack | https://github.com/vivekgotstack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
@@ -84,7 +84,7 @@
 ##### ⚒️ Often Used Tech Tools ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=tailwind,redux,zustand,reactquery,tanstack,reacthookform,git,jest,postman" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=redux,zustand,reactquery,tanstack,reacthookform,git,jest,postman" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
     <br/>
     <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,prisma,magicui,figma,canva,gsap,framer" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
@@ -149,5 +149,5 @@
 </p>
 
 <div  align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:ff0000,100:8b0000&height=120&section=footer&animation=fadeIn&reversal=true" width="100%"/>
 </div>
