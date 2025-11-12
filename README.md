@@ -1,5 +1,5 @@
 div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=0:00b4d8,100:ff69b4&fontColor=ffffff&font=Lobster" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=ff0000&fontColor=ffffff&font=Lobster" width="100%"/>
 </div>
 
 <img align="right" height="150" width="150" 
@@ -142,9 +142,9 @@ div align="center">
 </div>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-2572c5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Curated%20by-Vivek⭐️-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000&logoColor=000000">
 </p>
 
 <div  align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:ff69b4&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
