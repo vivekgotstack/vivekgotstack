@@ -69,7 +69,7 @@
 ##### Frameworks & Libraries:
 <span>
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=reactjs,spring,springboot,nextjs" alt="© vivekgotstack | https://github.com/vivekgotstack" />
+    <img src="https://skills.syvixor.com/api/icons?i=reactjs,spring,springboot" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
