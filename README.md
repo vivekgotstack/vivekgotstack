@@ -122,9 +122,10 @@
   
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=donut&theme=tokyonight&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=compact&theme=tokyonight&hide_border=true)
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight&v=2)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
