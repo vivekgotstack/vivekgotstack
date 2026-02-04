@@ -122,9 +122,9 @@
   
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgotstack&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](./profile/top-langs.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekgotstack&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](./profile/stats.svg)
 
 </div>
 
