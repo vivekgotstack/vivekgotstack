@@ -40,7 +40,7 @@
 
 📫 How to reach me **vivekni1224@gmail.com**
 
-📄 Know about my experiences [here](https://twitter.com/vivekgotstack)
+📄 Here's my resume [Vivek's Resume](https://drive.google.com/file/d/17dtJxAWSzLYbhqEBiZKF79ZhsgBl_2yQ/view?usp=drivesdk)
 
 ⚡ Fun fact: **I enjoy writing code so clean even my future self can understand it.**
 <hr/>
