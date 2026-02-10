@@ -32,7 +32,7 @@
 
 👯 I’m looking to collaborate on [WanderWise](https://wanderwise-lime.vercel.app)
 
-👨‍💻 All of my projects are available at [Github](https://github.com/vivekgotstack)
+👨‍💻 All of my projects are available at [Portfolio](https://vivekgotstack.vercel.app)
 
 📝 I post content on [Twitter](https://twitter.com/vivekgotstack)
 
