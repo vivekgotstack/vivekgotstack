@@ -309,7 +309,7 @@
 
   <p>If you find my projects useful, consider buying me a coffee! ☕</p>
 
-  <a href="https://www.buymeacoffee.com/vivekgotstack" target="_blank">
+  <a href="https://www.buymeacoffee.com/randomvivek" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180">
   </a>
 
