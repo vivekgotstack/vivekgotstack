@@ -187,51 +187,66 @@
 
 ## Featured Projects
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
 
-  <br><br>
-  <table align="center">
-  <tr>
-    <!-- Latest Repositories -->
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Currently Building</h3>
-      <div align="center">
-        <a href="https://github.com/vivekgotstack/AnimePhillic">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=AnimePhillic&theme=radical&hide_border=true"
-            alt="DailyFlow"
-          />
-        </a>
-        <br><br>
-      </div>
-    </td>
-    <!-- Highlighted Work -->
-    <td width="50%" valign="top">
-      <h3 align="center">🌟 Highlighted Work</h3>
-      <div align="center">
-        <a href="https://github.com/vivekgotstack/Email-ReplyCraft">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=Email-ReplyCraft&theme=radical&hide_border=true"
-            alt="Neo-Route"
-          />
-        </a>
-        <br><br>
-        <a href="https://github.com/vivekgotstack/WanderWise">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=WanderWise&theme=radical&hide_border=true"
-            alt="SignBridge"
-          />
-        </a>
-        <br><br>
-        <a href="https://github.com/vivekgotstack/VirtuBox-Assignment">
-          <img
-            src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=VirtuBox-Assignment&theme=radical&hide_border=true"
-            alt="Smart Trip Planner"
-          />
-        </a>
-      </div>
-    </td>
-  </tr>
+<br><br>
+
+<table align="center">
+<tr>
+
+<!-- Currently Building -->
+<td width="50%" valign="top">
+  <h3 align="center">⚡ Currently Building</h3>
+  <div align="center">
+
+<a href="https://github.com/vivekgotstack/AnimePhillic">
+<img
+src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=AnimePhillic&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+alt="AnimePhillic"
+/>
+</a>
+
+<br><br>
+
+  </div>
+</td>
+
+<!-- Highlighted Work -->
+<td width="50%" valign="top">
+  <h3 align="center">🌟 Highlighted Work</h3>
+  <div align="center">
+
+<a href="https://github.com/vivekgotstack/Email-ReplyCraft">
+<img
+src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=Email-ReplyCraft&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+alt="Email ReplyCraft"
+/>
+</a>
+
+<br>
+
+<a href="https://github.com/vivekgotstack/WanderWise">
+<img
+src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=WanderWise&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+alt="WanderWise"
+/>
+</a>
+
+<br>
+
+<a href="https://github.com/vivekgotstack/VirtuBox-Assignment">
+<img
+src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=VirtuBox-Assignment&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+alt="VirtuBox Assignment"
+/>
+</a>
+
+<br>
+
+  </div>
+</td>
+
+</tr>
 </table>
 <br>
 
