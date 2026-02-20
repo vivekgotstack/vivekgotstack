@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Vivek's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 269, Total PRs: 21, Total Issues: 2, Contributed to (last year): 2</desc>
+        <title id="titleId">Vivek Nigam's GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 269, Total PRs: 23, Total Issues: 2, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 195.92066038265057;
+        stroke-dashoffset: 194.6364799946426;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Vivek's GitHub Stats</text>
+      >Vivek Nigam's GitHub Stats</text>
     </g>
       </g>
     
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >21</text>
+      >23</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >2</text>
+      >4</text>
     </g>
   </g>
     </svg>
