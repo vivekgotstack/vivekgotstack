@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=0:ff0000,50:ff4d6d,100:00b4d8&fontColor=ffffff&font=Lobster" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Vivek%20Nigam&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn&color=0:ff0000,50:ff4d6d,100:00b4d8&fontColor=ffffff&font=Lobster" width="100%"/>
  
 </div>
 
@@ -328,7 +328,9 @@ alt="VirtuBox Assignment"
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="180">
   </a>
 
-  <br><br>
+<p align="center">
+  <img src="https://pngimg.com/uploads/deadpool/deadpool_PNG38.png" width="400"/>
+</p>
 
   ### ⭐ Star My Repositories
 
@@ -337,6 +339,10 @@ alt="VirtuBox Assignment"
   <img src="https://img.shields.io/github/stars/vivekgotstack?style=social" alt="Vivek's GitHub Stars">
 
 </div>
+<br>
+<p align="center">
+  <img src="https://pngimg.com/uploads/deadpool/deadpool_PNG54.png" width="200"/>
+</p>
 
 <br>
 
