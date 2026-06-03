@@ -37,11 +37,11 @@
 
 <td width="60%" valign="top">
 
-🔭 I’m currently working on <a href="https://anime-phillic.vercel.app">AnimePhillic</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br><br>
+🔭 I’m currently working on <a href="https://cointracker-pwa.vercel.app">CoinTracker</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br><br>
 
 🌱 I’m currently learning <b>Microservices Pattern and Rabbit MQ</b><br><br>
 
-👯 I’m looking to collaborate on <a href="https://wanderwise-lime.vercel.app">WanderWise</a><br><br>
+👯 I’m looking to collaborate on <a href="https://anime-phillic.vercel.app">AnimePhillic</a><br><br>
 
 👨‍💻 My details are available at <a href="https://vivekgotstack.vercel.app">Portfolio</a><br><br>
 
