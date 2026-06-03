@@ -199,10 +199,10 @@
   <h3 align="center">⚡ Currently Building</h3>
   <div align="center">
 
-<a href="https://github.com/vivekgotstack/AnimePhillic">
+<a href="https://github.com/vivekgotstack/CoinTracker">
 <img
-src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=AnimePhillic&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
-alt="AnimePhillic"
+src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=CoinTracker&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+alt="CoinTracker"
 />
 </a>
 
@@ -216,33 +216,27 @@ alt="AnimePhillic"
   <h3 align="center">🌟 Highlighted Work</h3>
   <div align="center">
 
+<a href="https://github.com/vivekgotstack/CoinTracker">
+<img
+src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=CoinTracker&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+alt="CoinTracker"
+/>
+</a>
+<br>
 <a href="https://github.com/vivekgotstack/Email-ReplyCraft">
 <img
 src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=Email-ReplyCraft&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
 alt="Email ReplyCraft"
 />
 </a>
-
 <br>
-
 <a href="https://github.com/vivekgotstack/WanderWise">
 <img
 src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=WanderWise&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
 alt="WanderWise"
 />
 </a>
-
 <br>
-
-<a href="https://github.com/vivekgotstack/VirtuBox-Assignment">
-<img
-src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=VirtuBox-Assignment&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
-alt="VirtuBox Assignment"
-/>
-</a>
-
-<br>
-
   </div>
 </td>
 
