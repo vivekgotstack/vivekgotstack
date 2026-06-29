@@ -51,7 +51,7 @@
 
 📫 How to reach me <b>vivekni1224@gmail.com</b><br><br>
 
-📄 Here's my resume <a href="https://drive.google.com/file/d/1LRIm-xGmWavVqvENgCqi1KyQU07bOP9Y/view?usp=drivesdk">Vivek's Resume</a><br><br>
+📄 Here's my resume <a href="https://drive.google.com/file/d/1PFVUb2z2zBJPatWtS5_VtCTbPuYDraIQ/view?usp=drivesdk">Vivek's Resume</a><br><br>
 
 ⚡ Fun fact: <b>I enjoy writing code so clean even my future self can understand it.</b>
 
