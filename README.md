@@ -43,7 +43,7 @@
 
 👯 I’m looking to collaborate on <a href="https://anime-phillic.vercel.app">AnimePhillic</a><br><br>
 
-👨‍💻 My details are available at <a href="https://vivekgotstack.vercel.app">Portfolio</a><br><br>
+👨‍💻 My details are available at <a href="https://viveknigam.co.in">Portfolio</a><br><br>
 
 📝 I post content on <a href="https://twitter.com/vivekgotstack">Twitter</a><br><br>
 
