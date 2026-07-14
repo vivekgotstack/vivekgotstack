@@ -115,7 +115,7 @@
 ##### Frameworks & Libraries:
 <span>
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=reactjs,spring,springboot" alt="© vivekgotstack | https://github.com/vivekgotstack" />
+    <img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,spring,springboot" alt="© vivekgotstack | https://github.com/vivekgotstack" />
   </a>
 </span>
 
@@ -125,7 +125,7 @@
 ##### Databases & Platforms:
 <span>
   <a href="https://github.com/vivekgotstack">
-    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,mongodb,github,maven,docker,firebase" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,redis,github,maven,docker,firebase" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </span>
 <br/>
@@ -135,9 +135,9 @@
 ##### ⚒️ Often Used Tech Tools ⚒️
 <p align="center">
   <a href="https://github.com/vivekgotstack" >
-    <img src="https://skills.syvixor.com/api/icons?i=redux,zustand,reactquery,tanstack,reacthookform,git,jest,postman" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=redux,zustand,reactquery,reacthookform,github,linux,git,jest,postman" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
     <br/>
-    <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,prisma,magicui,figma,canva,gsap,framer" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
+    <img src="https://skills.syvixor.com/api/icons?i=materialui,shadcnui,prisma,magicui,canva,framer" alt="© vivekgotstack | https://github.com/vivekgotstack"/>
   </a>
 </p>
 <div align="center">
