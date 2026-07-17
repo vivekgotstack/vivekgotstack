@@ -199,12 +199,24 @@
   <h3 align="center">⚡ Currently Building</h3>
   <div align="center">
 
-<a href="https://github.com/vivekgotstack/ModaStitch">
-<img
-    src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=ModaStitch&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
-    alt="ModaStitch"
+<a href="https://modastitch.com">
+  <img
+    src="https://img.shields.io/badge/ModaStitch-Private%20Repo-1a1b27?style=for-the-badge&logo=github&logoColor=bf91f3&labelColor=1a1b27&color=30363d"
+    alt="ModaStitch — Private Repo"
   />
 </a>
+
+<p align="center">
+  <b>Full-stack fashion e-commerce platform</b><br>
+  <sub>Next.js • Spring Boot • PostgreSQL • Cloudinary</sub>
+</p>
+
+<p align="center">
+  <a href="https://modastitch.com">
+    <img src="https://img.shields.io/badge/Visit-Live%20Website-38bdae?style=flat-square&logo=vercel&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Source-Private-30363d?style=flat-square&logo=github">
+</p>
 
 <br><br>
 
