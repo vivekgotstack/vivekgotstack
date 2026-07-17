@@ -37,7 +37,7 @@
 
 <td width="60%" valign="top">
 
-🔭 I’m currently working on <a href="https://cointracker-pwa.vercel.app">CoinTracker</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br><br>
+🔭 I’m currently working on <a href="https://modastitch.com">ModaStitch</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br><br>
 
 🌱 I’m currently learning <b>VPS Hosting & Docker</b><br><br>
 
