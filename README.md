@@ -201,9 +201,9 @@
 
 <a href="https://github.com/vivekgotstack/ModaStitch">
 <img
-src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=CoinTracker&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
-alt="CoinTracker"
-/>
+    src="https://github-readme-stats-zeta-ashy-94.vercel.app/api/pin/?username=vivekgotstack&repo=ModaStitch&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2"
+    alt="ModaStitch"
+  />
 </a>
 
 <br><br>
