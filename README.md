@@ -49,7 +49,7 @@
 
 💬 Ask me about <b>Scaling Backends, Building Architectures</b><br><br>
 
-📫 How to reach me <b>vivekni1224@gmail.com</b><br><br>
+📫 How to reach me <b>vivekgotstack@gmail.com</b><br><br>
 
 📄 Here's my resume <a href="https://drive.google.com/file/d/1PFVUb2z2zBJPatWtS5_VtCTbPuYDraIQ/view?usp=drivesdk">Vivek's Resume</a><br><br>
 
