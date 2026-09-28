@@ -45,7 +45,7 @@
 
 👨‍💻 My details are available at <a href="https://viveknigam.co.in">viveknigam.co.in</a><br><br>
 
-📝 I post content on <a href="https://www.linkedin/in/randomvivek">Linkedin</a><br><br>
+📝 I post content on <a href="https://www.linkedin.com/in/randomvivek/">Linkedin</a><br><br>
 
 💬 Ask me about <b>Scaling Backends, Building Architectures</b><br><br>
 
