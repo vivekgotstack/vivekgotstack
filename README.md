@@ -346,11 +346,6 @@ alt="CoinTracker"
 
 </div>
 <br>
-<p align="center">
-  <img src="https://pngimg.com/uploads/deadpool/deadpool_PNG54.png" width="200"/>
-</p>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
